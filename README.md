@@ -26,8 +26,8 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myers32&show_icons=true&locale=en&layout=compact" alt="myers32" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myers32&show_icons=true&locale=en&layout=compact" alt="myers32" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myers32&show_icons=true&locale=en" alt="myers32" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myers32&show_icons=true&locale=en" alt="myers32" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myers32&" alt="myers32" /></p>
