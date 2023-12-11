@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid!</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myers32&label=Profile%20views&color=0e75b6&style=flat" alt="myers32" /> </p>
-
 - 🔭 I’m currently working on [Ecommerce product page](https://github.com/myers32/Ecommerce-product-page)
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, TailwindCSS**
