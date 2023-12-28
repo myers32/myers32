@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ecommerce product page](https://github.com/myers32/Ecommerce-product-page)
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, TailwindCSS**
+- 🌱 I’m currently learning **JavaScript, VueJS, TailwindCSS**
 
 - 💬 Ask me about **anything!**
 
